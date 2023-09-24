@@ -1,0 +1,81 @@
+{
+  "name": "dxlqqjh--run",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/material": "^5.10.5",
+    "@syncfusion/ej2": "20.2.49",
+    "@syncfusion/ej2-base": "^20.2.48",
+    "@syncfusion/ej2-react-barcode-generator": "20.2.45",
+    "@syncfusion/ej2-react-base": "20.2.45",
+    "@syncfusion/ej2-react-buttons": "20.2.46",
+    "@syncfusion/ej2-react-calendars": "20.2.46",
+    "@syncfusion/ej2-react-charts": "20.2.49",
+    "@syncfusion/ej2-react-circulargauge": "20.2.45",
+    "@syncfusion/ej2-react-diagrams": "20.2.49",
+    "@syncfusion/ej2-react-documenteditor": "20.2.49",
+    "@syncfusion/ej2-react-dropdowns": "20.2.48",
+    "@syncfusion/ej2-react-filemanager": "20.2.45",
+    "@syncfusion/ej2-react-gantt": "20.2.49",
+    "@syncfusion/ej2-react-grids": "20.2.49",
+    "@syncfusion/ej2-react-heatmap": "20.2.48",
+    "@syncfusion/ej2-react-inplace-editor": "20.2.45",
+    "@syncfusion/ej2-react-inputs": "20.2.48",
+    "@syncfusion/ej2-react-kanban": "20.2.45",
+    "@syncfusion/ej2-react-layouts": "20.2.46",
+    "@syncfusion/ej2-react-lineargauge": "20.2.45",
+    "@syncfusion/ej2-react-lists": "20.2.46",
+    "@syncfusion/ej2-react-maps": "20.2.45",
+    "@syncfusion/ej2-react-navigations": "20.2.49",
+    "@syncfusion/ej2-react-notifications": "20.2.45",
+    "@syncfusion/ej2-react-pdfviewer": "20.2.49",
+    "@syncfusion/ej2-react-pivotview": "20.2.45",
+    "@syncfusion/ej2-react-popups": "20.2.49",
+    "@syncfusion/ej2-react-progressbar": "20.2.45",
+    "@syncfusion/ej2-react-querybuilder": "20.2.48",
+    "@syncfusion/ej2-react-richtexteditor": "20.2.49",
+    "@syncfusion/ej2-react-schedule": "20.2.45",
+    "@syncfusion/ej2-react-splitbuttons": "20.2.45",
+    "@syncfusion/ej2-react-spreadsheet": "20.2.49",
+    "@syncfusion/ej2-react-treegrid": "20.2.49",
+    "@syncfusion/ej2-react-treemap": "20.2.45",
+    "jquery": "^3.6.1",
+    "react": "18.1.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "18.1.0",
+    "react-draggable": "^4.4.5",
+    "react-motion": "^0.5.2",
+    "react-tabs": "^5.1.0"
+  },
+  "scripts": {
+    "dev": "webpack serve",
+    "build": "webpack",
+    "start": "react-scripts start",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^6.3.1",
+    "html-webpack-plugin": "^5.5.0",
+    "react-inlinesvg": "^3.0.1",
+    "react-scripts": "latest",
+    "svg-inline-loader": "^0.8.2",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
